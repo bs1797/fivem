@@ -1,7 +1,6 @@
 # fivem
 A curated list of FiveM resources
 
-- Like my work? consider a donation: https://donate.illenium.dev
 - Check out my FiveM solutions: https://twisted-development.com
 - My Discord: https://discord.gg/twisteddevelopment
 
