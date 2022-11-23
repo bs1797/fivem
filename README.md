@@ -1,10 +1,8 @@
-# awesome-fivem
+# fivem
 A curated list of FiveM resources
 
-- Like my work? consider a donation: https://donate.illenium.dev
-- Check out my FiveM solutions: https://illenium.dev
-- My Discord: https://discord.illenium.dev
-
+Check out my FiveM solutions: https://fivemshops.com
+- My Discord: https://discord.gg/twisteddevelopment
 ## Frameworks
 - [Qbox](https://github.com/Qbox-project/qb-core)
 - [qb-core](https://github.com/qbcore-framework/qb-core)
